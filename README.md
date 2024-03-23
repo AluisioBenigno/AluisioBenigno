@@ -2,7 +2,7 @@
 
 
 - 🔭 Trabalho com suporte e programação
-- 🌱 Sou programador Python e Django
+- 🌱 Sou programador Python com Django
 - 👯 Estou estudando Automatização de Tarefas, Ciência de Dados e Inteligência Artificial
 
 <div >
