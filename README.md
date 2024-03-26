@@ -26,4 +26,4 @@
     </div> 
 </div>
   
-![Snake animation](https://github.com/AluisioBenigno/AluisioBenigno/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/AluisioBenigno/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
